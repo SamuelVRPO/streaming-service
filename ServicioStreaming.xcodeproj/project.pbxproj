@@ -25,6 +25,11 @@
 /* Begin PBXFileReference section */
 		7DE37074248820B9004E11F1 /* ServicioStreaming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ServicioStreaming; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DE37077248820B9004E11F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7DE3707E248820E1004E11F1 /* Video.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Video.h; sourceTree = "<group>"; };
+		7DE3707F24882F04004E11F1 /* Pelicula.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pelicula.h; sourceTree = "<group>"; };
+		7DE3708024884CC3004E11F1 /* Episodio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Episodio.h; sourceTree = "<group>"; };
+		7DE370812488565F004E11F1 /* Serie.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Serie.h; sourceTree = "<group>"; };
+		7DE37083248868C5004E11F1 /* DocumentoVideos.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = DocumentoVideos.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,11 @@
 			isa = PBXGroup;
 			children = (
 				7DE37077248820B9004E11F1 /* main.cpp */,
+				7DE3707E248820E1004E11F1 /* Video.h */,
+				7DE3707F24882F04004E11F1 /* Pelicula.h */,
+				7DE3708024884CC3004E11F1 /* Episodio.h */,
+				7DE370812488565F004E11F1 /* Serie.h */,
+				7DE37083248868C5004E11F1 /* DocumentoVideos.txt */,
 			);
 			path = ServicioStreaming;
 			sourceTree = "<group>";

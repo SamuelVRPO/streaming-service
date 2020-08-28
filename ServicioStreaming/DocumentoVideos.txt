@@ -1,0 +1,7 @@
+p The_Seven_Samurai 120 a 001 4 John_Jairo
+e Faith 42 c 0301 5 1018 1 1
+e Mikes_secret 43 c 0302 4 1018 1 2
+e Jail 45 c 0318 4 1018 2 1
+e Getting_out 41 0421 5 1018 2 2
+s Suits 1018 2 2
+p Spirited_Away 135 c 219 5 Hayao_Miyasaki
